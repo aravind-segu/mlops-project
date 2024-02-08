@@ -26,11 +26,11 @@ targets:
 
 
 
-  staging:
+  temp:
     workspace:
       host: https://e2-dogfood.staging.cloud.databricks.com
 
-  prod:
+  main2:
     workspace:
       host: https://e2-dogfood.staging.cloud.databricks.com
 
