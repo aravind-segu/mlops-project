@@ -6,8 +6,6 @@ name: Bundle validation for my-mlops-project
 on:
   workflow_dispatch:
   pull_request:
-    paths:
-      - 'my_mlops_project/**'
 
 defaults:
   run:
